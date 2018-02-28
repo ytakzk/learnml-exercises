@@ -1,4 +1,5 @@
 
+
 import support.classes as classes
 import os
 import pickle
@@ -621,7 +622,6 @@ def NoisyOpt_SmallSparse():
     comes from the Elements of Statistical Learning (ESL2) text,
     in Figure 3.6 on page 59 (with n=300), and again (with n=100)
     on page 78 in Figure 3.16.
-
     NOTE: since most of the methods we shall be using involve a
     centering and standardizing of the data, we elect to do this
     here, at the time of generation. That is, the sample given
@@ -696,6 +696,3 @@ def NoisyOpt_SmallSparse():
 
     # Finally, return the dinfo dict.
     return dinfo
-
-
-    
