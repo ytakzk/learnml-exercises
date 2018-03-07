@@ -1,7 +1,7 @@
 
 This project includes my answers for [learnml](https://github.com/feedbackward/learnml).
 
-### My Answers
+### Answers
 - [DataMNIST](./DataMNIST_Exercises.ipynb)
 - [Datavim-2](./Datavim-2_Exercises.ipynb)
 - [FilterBank](./FilterBank_Exercises.ipynb)
