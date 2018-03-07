@@ -1,5 +1,5 @@
 
-This project includes my answers for [learnml](https://github.com/feedbackward/learnml).
+This project contains my answers for [learnml](https://github.com/feedbackward/learnml).
 
 ### Answers
 - [DataMNIST](./DataMNIST_Exercises.ipynb)
